@@ -51,4 +51,4 @@ Sales show noticeable seasonal patterns
 
 A small segment of customers drives a large portion of total sales
 
-A small segment of customers drives a large portion of total sales
+
